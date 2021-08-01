@@ -16,4 +16,7 @@ To get started:
     - Navigate to client folder and start client server using npm start
     
     
-  
+ 
+ ![](/img1.png)
+ 
+ ![](/img2.png)
